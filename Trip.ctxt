@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Trip
+comment1.params=startingLocation\ destination\ depart\ arrive\ seatCount\ busNumber
+comment1.target=Trip(java.lang.String,\ java.lang.String,\ java.time.LocalDateTime,\ java.time.LocalDateTime,\ int,\ java.lang.String)
+comment2.params=numberOfSeats
+comment2.target=boolean\ takeSeat(byte)
+numComments=3
